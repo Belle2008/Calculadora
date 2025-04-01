@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.quadrado{
+    background-color: rgb(123, 57, 57);
+    border: 1px;
+    height: 100%;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Calculadora{
+    position: absolute;
+    background-color: black;
+    top: 50%;
+}
